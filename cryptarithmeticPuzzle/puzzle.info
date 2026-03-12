@@ -1,0 +1,9 @@
+/**************************************************************************
+ *                                                                        *
+ *  Description:                                                          *
+ *                                                                        *
+ *  This program finds the solution to a puzzle provided by the user,     *
+ *  by enumerating and testing all possible configurations ensuring no    *
+ *  integer is assign to more than one character and leading characters   * 
+ *   have a value of 0                                                    *
+ **************************************************************************/
