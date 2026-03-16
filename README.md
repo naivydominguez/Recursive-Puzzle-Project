@@ -24,7 +24,8 @@ Enter result: MONEY
 
 ## Example Output
 
-°❀⋆.ೃ࿔*:･ Solution Found! ◝(ᵔᗜᵔ)◜ °❀⋆.ೃ࿔*:･
+°❀⋆.ೃ࿔*:･ Solution Found! ◝(ᵔᗜᵔ)◜ °❀⋆.ೃ࿔*:.
+
 SEND + MORE = MONEY  
 9567 + 1085 = 10652
 
