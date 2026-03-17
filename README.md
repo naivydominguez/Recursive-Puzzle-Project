@@ -53,7 +53,8 @@ If a valid mapping is found, the program prints the solution.
 
 ## How to Run
 
-Clone the repository: git clone https://github.com/naivydominguez/Recursive-Puzzle-Project.git
+Clone the repository: 
+git clone https://github.com/naivydominguez/Recursive-Puzzle-Project.git
 Compile the program:
 g++ puzzle.cpp -o solver
 Run the executable:
